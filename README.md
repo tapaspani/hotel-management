@@ -1,0 +1,2 @@
+# hotel-management
+ A Hotel Management System in Java automates guest bookings, room management, and billing processes, enhancing efficiency and service quality. It centralizes guest data, reservation schedules, and payment tracking, providing seamless operations for hotel staff. Additional modules like housekeeping and inventory management ensure smooth hotel functionality and improved guest experiences.
